@@ -1,0 +1,2 @@
+# Scamnet
+Scam
